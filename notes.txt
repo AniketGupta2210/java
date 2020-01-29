@@ -1,0 +1,17 @@
+Heap and Stack Memoory allocation in java
+Permgem space-all class informaton is stored here
+local variable is in method only
+instance variable is only in an instance
+global variable is available to all classes and instances for sharing
+
+
+
+
+SDLC[Agile]
+requirement
+design
+development
+testing 
+deployment
+
+Git-vcm or scm
